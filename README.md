@@ -1,2 +1,2 @@
 # FlexiWear-bodynet-dataset
-DATASET
+Dataset for Suite-IN++
